@@ -49,38 +49,16 @@ d)	Steps to Clean Up (Terminate the Instance)
 
 
 Snap Shots:
- 
-
-Snap Shot 1: Simple Storage Service (S3)
- 
-
-Snap Shot 2:  EC2 (Elastic Compute Cloud) – Instance
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ <img width="960" height="564" alt="Screenshot 2026-11-01 182529" src="https://github.com/user-attachments/assets/20651e50-0c4b-4106-a6ac-f8d1e8cd28b4" />
+<img width="960" height="564" alt="Screenshot 2026-11-02 151646" src="https://github.com/user-attachments/assets/44838d11-fdfe-4446-b330-0ac3c0bf9176" />
+<img width="960" height="564" alt="Screenshot 2026-11-02 155445" src="https://github.com/user-attachments/assets/0cbd850c-b69e-49e3-988c-99ff7e4c608b" />
+<img width="960" height="564" alt="Screenshot 2026-11-02 160634" src="https://github.com/user-attachments/assets/0e4608b0-57d1-4027-99b7-ab2d50bb26e1" />
+<img width="960" height="564" alt="Screenshot 2026-11-02 155510" src="https://github.com/user-attachments/assets/39fb5d63-50b7-45d6-b4e8-ba410543e9a1" />
+<img width="960" height="564" alt="Screenshot 2026-11-02 160711" src="https://github.com/user-attachments/assets/3155d26e-162d-4fad-931a-30a5e9661009" />
+<img width="960" height="564" alt="Screenshot 2026-11-02 160839" src="https://github.com/user-attachments/assets/af8e5a31-6d1b-44f0-9647-b53e6102754e" />
+<img width="960" height="564" alt="Screenshot 2026-11-02 161144" src="https://github.com/user-attachments/assets/1daffc25-f0ce-4563-b4a2-00f1feffad5a" />
+<img width="960" height="564" alt="Screenshot 2026-11-02 161214" src="https://github.com/user-attachments/assets/8baa538d-d081-43b1-9238-a40033072a4e" />
+<img width="960" height="564" alt="Screenshot 2026-11-02 143450" src="https://github.com/user-attachments/assets/f93c3edb-5e61-4599-a4e1-4096910bfcdf" />
 
 Result:
 Thus, a Simple Storage Service (S3) and EC2 (Elastic Compute Cloud) - instance has been successfully created and launched in AWS
